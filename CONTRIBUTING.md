@@ -2,6 +2,7 @@
 
 [In this document shall describe how you would like others to contribute to your code and what code of conduct shall they follow to avoid conflicts and misunderstandings during the collaboration process.]
 All contributing mandarins will communicate clearly.
+Everyone will be nice to each other.
 
 
 ## Installation for Developers
