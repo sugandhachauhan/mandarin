@@ -1,1 +1,5 @@
-This is our documentation for our code for generating mandarins using python
+This is our documentation for our code for generating mandarins using python.
+1. First you plant a seed.
+2. You cover it with soil
+3. You water it.
+
