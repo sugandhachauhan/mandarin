@@ -2,13 +2,22 @@
 ---
 authors: 
   -
-    family-names: Doe
-    given-names: John
-    orcid: "https://orcid.org/0000-0000-0000-0000 "
+    family-names: Yildizli
+    given-names: Tugba
+    
+    family-names: Gesbert
+    given-names:Boris
+
+    family-names: Chauhan
+    given-names: Sugandha
+
+    family-names:Tidjani
+    given-names:Hanifa
+
 cff-version: "1.1.0"
 keywords: 
-  - awesome
-  - software
+  - benefits of mandarin
+  - mandarin tree
 message: "If you use this software, please cite it using these metadata."
 title: "Awesome Code"
 version: "1.0"
