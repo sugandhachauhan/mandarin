@@ -1,7 +1,7 @@
 # Contributing Guidelines
 
 [In this document shall describe how you would like others to contribute to your code and what code of conduct shall they follow to avoid conflicts and misunderstandings during the collaboration process.]
-Everyone (all manadrins) will communicate clearly.
+All contributing mandarins will communicate clearly.
 
 
 ## Installation for Developers
